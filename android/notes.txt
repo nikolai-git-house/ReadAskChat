@@ -1,0 +1,71 @@
+
+//generate an Android fabric build
+
+Create a release key. 
+build / generate signed apk. You will be asked where is your 
+android app directory. Just click next, since the android studio 
+will understand where it is. Then you will see a dialog containing a
+ form of generating / using current certificate.
+
+
+
+go to android/app/build.gradle and edit the following:
+
+    signingConfigs{
+        release{
+            keyAlias getProperty("keyAliasProp")
+            keyPassword getProperty("keyPasswordProp")
+            storeFile file("../keystores/release.jks")
+            storePassword getProperty("storePasswordProp")
+        }
+    }
+
+buildTypes{
+release{
+…
+signingConfig signingConfigs.release
+}
+}
+
+
+http://dev.readaskchat.net:8080/
+http://rac.mythicm.com:8080/
+144.217.13.68/phpmyadmin
+
+
+go to gradle.properties
+
+android.useDeprecatedNdk=true
+keyAliasProp=release
+keyPasswordProp=test1234
+storePasswordProp=test1234
+
+
+//to build a release build for Fabric
+1/ make sure that you're in the Android dir
+2/ issue: ./gradlew assembleRelease
+
+cd android && ./gradlew assembleRelease
+
+
+//to ensure that there are no multiple dex conflicts, you need to change the build.gradle under
+//pushwoosh
+
+    compile 'com.google.android.gms:play-services-gcm:10.2.4'
+    compile 'com.google.android.gms:play-services-location:10.2.4'
+
+
+
+
+
+
+
+//for building iOS in XCode
+ios Fabric build
+make sure your teams is Read, Ask, Chat, Ltd.
+Click on ReadAskChat icon and select Generic iOS device
+product || build.
+
+product || archvive
+
+open up fabric, and it automatically detects it. Then login.

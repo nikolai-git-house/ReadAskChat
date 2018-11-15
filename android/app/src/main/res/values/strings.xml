@@ -1,0 +1,10 @@
+<resources>
+    <string moduleConfig="true" name="appcenterCrashes_whenToSendCrashes">ALWAYS_SEND</string>
+    <string moduleConfig="true" name="appcenterAnalytics_whenToEnableAnalytics">ALWAYS_SEND</string>
+    <string moduleConfig="true" name="reactNativeCodePush_androidDeploymentKey">3MJlH6Kh8EVfzj-tuNH1dWBSDzVte76e47e0-612f-475f-a074-a6386e1b2161</string>
+
+    <string name="app_name">ReadAskChat</string>
+    <string name="RNB_GOOGLE_PLAY_LICENSE_KEY">MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAp30DJd0lrUKf7Gms5/BRhRRVBIS5ZA9oWBXTHJgrT5+RT3mGKmRM3NfxiAtovhNWKNAnQIADRqH6URY5mde263oC5TaP8tAW4hMqLPc0lwD0crJ5kP6pq8htgJnOYn7XJNrGd2iV03keuzNgQmk/KqAGfuH9CNi7CUYkIhZaCAD5hky5dahsWQsNqI8+y6ZLhoayJw1u/XeDLE6PUrJgGpWPrHqYP6cgAmuS0/TovjSfApaDpqw9I2vKvXO5zHQfooQiqOiUGbMfbSte52tep9k3yO3t+BtULM04oN6oB0NhKKvtK8jdoV0rNOfF/lZ/S8ilBwpVZ4kBKdQQo2QgYwIDAQAB</string>
+    <string name="appCenterAnalytics_whenToEnableAnalytics" moduleConfig="true">ALWAYS_SEND</string>
+    <string name="appCenterCrashes_whenToSendCrashes" moduleConfig="true">ALWAYS_SEND</string>
+</resources>

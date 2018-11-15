@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "177391277943",
+    "firebase_url": "https://rac-new-package.firebaseio.com",
+    "project_id": "rac-new-package",
+    "storage_bucket": "rac-new-package.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:177391277943:android:6b2b48ab22cc9029",
+        "android_client_info": {
+          "package_name": "com.readaskchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "177391277943-de7mu0j3qfl10jivimarbpj4kmue1tgi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHVTrl8bxWPxGY0JNU7hL1ZnGHO-nd4oc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:177391277943:android:b0299706895e0d13",
+        "android_client_info": {
+          "package_name": "net.readaskchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "177391277943-de7mu0j3qfl10jivimarbpj4kmue1tgi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHVTrl8bxWPxGY0JNU7hL1ZnGHO-nd4oc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

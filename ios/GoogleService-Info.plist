@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>177391277943-a9b96hgp59asqtdngpe8kg50umljgmpt.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.177391277943-a9b96hgp59asqtdngpe8kg50umljgmpt</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBGe7zQ8X-YWfPExsj58-k9zfs37mcvE38</string>
+	<key>GCM_SENDER_ID</key>
+	<string>177391277943</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.readaskchat</string>
+	<key>PROJECT_ID</key>
+	<string>rac-new-package</string>
+	<key>STORAGE_BUCKET</key>
+	<string>rac-new-package.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:177391277943:ios:6b2b48ab22cc9029</string>
+	<key>DATABASE_URL</key>
+	<string>https://rac-new-package.firebaseio.com</string>
+</dict>
+</plist>

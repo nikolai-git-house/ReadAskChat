@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="206px" height="125px" viewBox="0 0 206 125" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>Speech_Bubble_Large</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M0.0546841255,16.1135415 L0.0546841255,73.3917503 C0.0546841255,84.7777276 -1.61368184,87.2111742 13.4800533,87.2111742 L140.781833,87.2111742 L159.357493,115.969722 L159.357493,87.2111742 L183.018716,87.2111742 C198.112451,87.2111742 195.534541,84.7777276 195.534541,73.3917503 L195.534541,16.1135415 C195.534541,4.72756428 198.112451,0 183.018716,0 L190.8472,0 L13.4800533,0 C-1.61368184,-6.56496188e-15 0.0546841255,4.72756428 0.0546841255,16.1135415 Z" id="path-1"></path>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-2">
+            <feMorphology radius="1" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="2" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Version-4" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Story_v2-FAB-Open---no-arrows" transform="translate(-428.000000, -227.000000)">
+            <g id="speech_bubble_large" transform="translate(433.000000, 230.000000)">
+                <g id="Speech_Bubble_Large">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                    <use stroke="#FFFFFF" stroke-width="2" fill="#02B5A5" fill-rule="evenodd" xlink:href="#path-1"></use>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
