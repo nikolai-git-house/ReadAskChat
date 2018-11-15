@@ -10,7 +10,7 @@ Install Prerequisites:
 
 Clone this repository:
 ```
-$ git clone git@bitbucket.org:csgerber/proracrn.git
+$ git clone https://github.com/nikolai-git-house/ReadAskChat.git
 $ cd proracrn/
 ```
 
