@@ -11,7 +11,7 @@ Install Prerequisites:
 Clone this repository:
 ```
 $ git clone https://github.com/nikolai-git-house/ReadAskChat.git
-$ cd proracrn/
+$ cd ReadAskChat/
 ```
 
 Initialize the environment
