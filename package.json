@@ -33,7 +33,7 @@
     "native-base": "2.4.1",
     "prop-types": "^15.6.1",
     "pushwoosh-react-native-plugin": "^3.0.2",
-    "qs": "^6.4.0",
+    "qs": "^6.5.3",
     "react": "16.3.1",
     "react-native": "0.54.4",
     "react-native-animatable": "git+https://github.com/higherstar/react-native-animatable.git",
